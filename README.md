@@ -57,6 +57,8 @@ Features
 
 
 ●🔍 Filtering by product, region, or category
+
+
 ●📊 Interactive charts for better insights
 ●⚡ Easy integration with CSV or database data sources
 Tech Stack
