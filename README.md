@@ -53,10 +53,12 @@ This project provides a simple and interactive way to visualize sales trends ove
 Features
 
 
-📈 Time-based sales trend analysis (daily, monthly, yearly)
-🔍 Filtering by product, region, or category
-📊 Interactive charts for better insights
-⚡ Easy integration with CSV or database data sources
+●📈 Time-based sales trend analysis (daily, monthly, yearly)
+
+
+●🔍 Filtering by product, region, or category
+●📊 Interactive charts for better insights
+●⚡ Easy integration with CSV or database data sources
 Tech Stack
 Python / JavaScript (depending on implementation)
 Libraries: Pandas, Matplotlib / Plotly / Chart.js
