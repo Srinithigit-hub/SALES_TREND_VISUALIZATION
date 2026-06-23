@@ -94,4 +94,4 @@ Usage:
 Purpose:
 
 
-The goal is to turn raw sales data into meaningful insights that support decision-making and business growth.# SALES_TREND_VISUALIZATION
+The goal is to turn raw sales data into meaningful insights that support decision-making and business growth
