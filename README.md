@@ -6,7 +6,7 @@ Sales Trend Visualization:
 
 This project includes a visualization of monthly sales performance to help identify growth patterns and trends over time.
 
-Key Insights:
+KEY INSIGHTS:
 
 
 ●Sales show a consistent upward trend over the observed period.
@@ -20,7 +20,7 @@ Key Insights:
 ●This trend may indicate successful marketing campaigns or seasonal demand.
 
 
-Tools Used:
+TOOLS USED:
 
 
 ●Data visualization: Chart.js / Recharts / Matplotlib (depending on your stack)
@@ -33,7 +33,7 @@ Tools Used:
 ●pandas
 
 
-How to Use:
+HOW TO USE:
 
 
 1.Replace the sample data with your actual sales dataset.
@@ -45,12 +45,12 @@ How to Use:
 3.Run the visualization script or component to generate updated charts.
 
 
-Overview:
+OVERVIEW:
 
 
 This project provides a simple and interactive way to visualize sales trends over time. It helps identify patterns, seasonal changes, and growth opportunities using clear charts and dashboards.
 
-Features:
+FEATURES:
 
 
 ●📈 Time-based sales trend analysis (daily, monthly, yearly)
@@ -65,7 +65,7 @@ Features:
 ●⚡ Easy integration with CSV or database data sources
 
 
-Tech Stack:
+TECH STACK:
 
 
 
@@ -79,7 +79,7 @@ Tech Stack:
 ●Optional: Dashboard frameworks like Streamlit or Power BI
 
 
-Usage:
+USAGE:
 
 
 1.Load your sales dataset
@@ -91,7 +91,7 @@ Usage:
 3.Explore trends via charts and filters
 
 
-Purpose:
+PURPOSE:
 
 
 The goal is to turn raw sales data into meaningful insights that support decision-making and business growth
