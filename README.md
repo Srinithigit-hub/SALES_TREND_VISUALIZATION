@@ -2,6 +2,8 @@ SALES_TREND_VISUALIZATION
 
 
 Sales Trend Visualization
+
+
 This project includes a visualization of monthly sales performance to help identify growth patterns and trends over time.
 
 Key Insights
