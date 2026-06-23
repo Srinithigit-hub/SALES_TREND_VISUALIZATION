@@ -1,12 +1,14 @@
 SALES_TREND_VISUALIZATION
 
 
-Sales Trend Visualization
+Sales Trend Visualization:
 
 
 This project includes a visualization of monthly sales performance to help identify growth patterns and trends over time.
 
-Key Insights
+Key Insights:
+
+
 Sales show a consistent upward trend over the observed period.
 The highest growth occurs between April and June.
 This trend may indicate successful marketing campaigns or seasonal demand.
