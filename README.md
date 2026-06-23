@@ -36,9 +36,11 @@ Tools Used:
 How to Use:
 
 
-Replace the sample data with your actual sales dataset.
-Ensure the date/month field is properly formatted.
-Run the visualization script or component to generate updated charts.
+1.Replace the sample data with your actual sales dataset.
+
+
+2.Ensure the date/month field is properly formatted.
+3.Run the visualization script or component to generate updated charts.
 overview
 This project provides a simple and interactive way to visualize sales trends over time. It helps identify patterns, seasonal changes, and growth opportunities using clear charts and dashboards.
 
