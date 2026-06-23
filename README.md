@@ -10,6 +10,8 @@ Key Insights:
 
 
 ●Sales show a consistent upward trend over the observed period.
+
+
 ●The highest growth occurs between April and June.
 ●This trend may indicate successful marketing campaigns or seasonal demand.
 Tools Used:
