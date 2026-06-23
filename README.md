@@ -63,6 +63,8 @@ Features
 
 
 ●⚡ Easy integration with CSV or database data sources
+
+
 Tech Stack
 Python / JavaScript (depending on implementation)
 Libraries: Pandas, Matplotlib / Plotly / Chart.js
