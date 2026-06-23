@@ -50,7 +50,7 @@ Overview:
 
 This project provides a simple and interactive way to visualize sales trends over time. It helps identify patterns, seasonal changes, and growth opportunities using clear charts and dashboards.
 
-Features
+Features:
 
 
 ●📈 Time-based sales trend analysis (daily, monthly, yearly)
