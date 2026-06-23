@@ -83,7 +83,15 @@ Usage:
 
 
 1.Load your sales dataset
+
+
 2.Run the visualization script/app
+
+
 3.Explore trends via charts and filters
-Purpose
+
+
+Purpose:
+
+
 The goal is to turn raw sales data into meaningful insights that support decision-making and business growth.# SALES_TREND_VISUALIZATION
