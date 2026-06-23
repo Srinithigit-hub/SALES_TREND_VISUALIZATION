@@ -114,8 +114,6 @@ Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
 10,2023-02-14,Male,23,Clothing,2,50,100
 11,2023-10-30,Male,35,Beauty,3,25,75
 12,2023-08-05,Male,22,Electronics,3,500,1500
-
-
 13,2023-01-17,Male,64,Clothing,4,30,120
 14,2023-01-16,Female,42,Electronics,4,500,2000
 15,2023-02-17,Male,19,Clothing,3,500,1500
