@@ -100,7 +100,7 @@ PURPOSE:
 SALES DATASET(1).CSV:
 
 
-,Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
 0,2023-11-24,Male,34,Beauty,3,50,150
 1,2023-02-27,Female,26,Clothing,2,500,1000
 2,2023-01-13,Male,50,Electronics,1,30,30
