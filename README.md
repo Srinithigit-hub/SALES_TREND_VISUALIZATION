@@ -65,7 +65,7 @@ Features
 ●⚡ Easy integration with CSV or database data sources
 
 
-Tech Stack
+Tech Stack:
 
 
 
