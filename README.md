@@ -66,10 +66,20 @@ Features
 
 
 Tech Stack
-Python / JavaScript (depending on implementation)
-Libraries: Pandas, Matplotlib / Plotly / Chart.js
-Optional: Dashboard frameworks like Streamlit or Power BI
-Usage
+
+
+●Python / JavaScript (depending on implementation)
+
+
+●Libraries: Pandas, Matplotlib / Plotly / Chart.js
+
+
+●Optional: Dashboard frameworks like Streamlit or Power BI
+
+
+Usage:
+
+
 Load your sales dataset
 Run the visualization script/app
 Explore trends via charts and filters
