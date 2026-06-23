@@ -60,6 +60,8 @@ Features
 
 
 ●📊 Interactive charts for better insights
+
+
 ●⚡ Easy integration with CSV or database data sources
 Tech Stack
 Python / JavaScript (depending on implementation)
