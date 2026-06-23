@@ -97,7 +97,7 @@ PURPOSE:
   The goal is to turn raw sales data into meaningful insights that support decision-making and business growth.
 
 
-SALES DATASET(1).CSV
+SALES DATASET(1).CSV:
 
 
 ,Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
