@@ -1101,3 +1101,80 @@ Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
 997,2023-10-29,Female,23,Beauty,4,25,100
 998,2023-12-05,Female,36,Electronics,3,50,150
 999,2023-04-12,Male,47,Electronics,4,30,120
+
+CODE_FOR_SALES_TREND:
+
+
+mport pandas as pd
+import matplotlib.pyplot as plt
+data = {
+"Month": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+"Sales": [12000, 15000, 18000, 17000, 21000, 25000]
+}
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+2
+df = pd.DataFrame(data)
+
+# Calculations
+total_sales = df["Sales"].sum()
+average_sales = df["Sales"].mean()
+df["Growth (%)"] = df["Sales"].pct_change() * 100
+print("Total Sales:", total_sales)
+print("Average Sales:", average_sales)
+print(df)
+
+# Line Chart
+plt.figure()
+plt.plot(df["Month"], df["Sales"], marker='o')
+plt.title("Monthly Sales Trend")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.grid()
+plt.show()
+
+# Bar Chart
+plt.figure()
+plt.bar(df["Month"], df["Sales"])
+plt.title("Monthly Sales Comparison")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.show()
+
+# Growth Chart
+plt.figure()
+plt.plot(df["Month"], df["Growth (%)"], marker='o')
+plt.title("Monthly Growth (%)")
+plt.xlabel("Month")
+plt.ylabel("Growth (%)")
+plt.axhline(0)
+plt.show()
+# Install dependencies as needed:
+# pip install kagglehub[pandas-datasets]
+import kagglehub
+from kagglehub import KaggleDatasetAdapter
+
+# Set the path to the file you'd like to load
+file_path = ""
+
+# Load the latest version
+df = kagglehub.load_dataset(
+  KaggleDatasetAdapter.PANDAS,
+  "sahilislam007/sales-dataset",
+  file_path,
+  # Provide any additional arguments like 
+  # sql_query or pandas_kwargs. See the 
+  # documenation for more information:
+  # https://github.com/Kaggle/kagglehub/blob/main/README.md#kaggledatasetadapterpandas
+)
+
+print("First 5 records:", df.head())
