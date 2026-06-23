@@ -9,10 +9,10 @@ This project includes a visualization of monthly sales performance to help ident
 Key Insights:
 
 
-Sales show a consistent upward trend over the observed period.
-The highest growth occurs between April and June.
-This trend may indicate successful marketing campaigns or seasonal demand.
-Tools Used
+●Sales show a consistent upward trend over the observed period.
+●The highest growth occurs between April and June.
+●This trend may indicate successful marketing campaigns or seasonal demand.
+Tools Used:
 Data visualization: Chart.js / Recharts / Matplotlib (depending on your stack)
 Data source: Sample / CSV / Database
 Python
