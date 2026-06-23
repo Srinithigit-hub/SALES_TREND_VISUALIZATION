@@ -23,13 +23,15 @@ Key Insights:
 Tools Used:
 
 
-Data visualization: Chart.js / Recharts / Matplotlib (depending on your stack)
+●Data visualization: Chart.js / Recharts / Matplotlib (depending on your stack)
 
 
-Data source: Sample / CSV / Database
-Python
-pandas
-How to Use
+●Data source: Sample / CSV / Database
+●Python
+●pandas
+
+
+How to Use:
 Replace the sample data with your actual sales dataset.
 Ensure the date/month field is properly formatted.
 Run the visualization script or component to generate updated charts.
