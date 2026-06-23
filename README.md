@@ -68,6 +68,8 @@ Features
 Tech Stack
 
 
+
+
 ●Python / JavaScript (depending on implementation)
 
 
